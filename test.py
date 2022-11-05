@@ -1,1 +1,1 @@
-print('map-component')
+print('modified-map-component')
